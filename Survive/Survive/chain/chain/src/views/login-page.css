@@ -1,0 +1,80 @@
+.login-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.login-page-open-life71 {
+  width: 1153px;
+  height: 744px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-end;
+  background-image: url("/playground_assets/openlife715655-ool-1200w.png");
+  background-position: center;
+}
+.login-page-openlife3 {
+  top: 0px;
+  left: 353px;
+  width: 448px;
+  height: 483px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  border-color: transparent;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/playground_assets/openlife35656-62gb-500h.png");
+  background-position: center;
+}
+.login-page-name {
+  left: 0px;
+  right: 0px;
+  width: 324px;
+  bottom: 0px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+}
+.login-page-name1 {
+  left: 0px;
+  right: 0px;
+  width: 324px;
+  bottom: -69px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+}
+.login-page-navlink {
+  left: 0px;
+  color: var(--dl-color-gray-white);
+  right: 0px;
+  width: 89px;
+  bottom: 70px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-halfunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: rgb(57, 24, 129);
+}
+.login-page-navlink1 {
+  top: 606px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}

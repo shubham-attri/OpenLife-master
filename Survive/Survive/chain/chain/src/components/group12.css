@@ -1,0 +1,88 @@
+.group12-group12 {
+  width: 420px;
+  height: 364px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(251, 222, 178, 1);
+}
+.group12-text {
+  top: 202px;
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  width: 386px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group12-text2 {
+  top: 167px;
+  left: 118px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group12-rectangle16 {
+  top: 284px;
+  left: 81px;
+  width: 257px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.group12-text4 {
+  top: 302px;
+  left: 164px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group12-icons-phosphor-security-circle-wavy-check {
+  top: 80px;
+  left: 178px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.group12-root-class-name {
+  top: 126px;
+  left: 879px;
+  position: absolute;
+}

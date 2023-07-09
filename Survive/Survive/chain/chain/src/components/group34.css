@@ -1,0 +1,73 @@
+.group34-group34 {
+  width: 270px;
+  height: 165px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-color: transparent;
+}
+.group34-text {
+  top: 148px;
+  color: rgba(0, 0, 0, 1);
+  width: 270px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group34-text2 {
+  top: 117px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group34-ellipse3 {
+  top: 0px;
+  left: 71px;
+  width: 104px;
+  height: 104px;
+  position: absolute;
+  border-color: transparent;
+}
+.group34-icons-phosphor-people-user {
+  top: 34px;
+  left: 103px;
+  width: 41px;
+  height: 40px;
+  position: absolute;
+}
+.group34-root-class-name {
+  top: 0px;
+  right: 0px;
+  position: absolute;
+  margin-right: 0;
+  margin-bottom: 0;
+}

@@ -1,0 +1,88 @@
+.group11-group11 {
+  width: 420px;
+  height: 364px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(208, 222, 246, 1);
+}
+.group11-text {
+  top: 202px;
+  left: 60px;
+  color: rgba(0, 0, 0, 1);
+  width: 314px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group11-text2 {
+  top: 167px;
+  left: 109px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group11-rectangle15 {
+  top: 284px;
+  left: 84px;
+  width: 257px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.group11-text4 {
+  top: 302px;
+  left: 167px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group11-icons-phosphor-health-brain {
+  top: 80px;
+  left: 183px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.group11-root-class-name {
+  top: 126px;
+  left: 441px;
+  position: absolute;
+}

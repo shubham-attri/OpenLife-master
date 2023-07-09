@@ -1,0 +1,94 @@
+.sign-up-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-up-page-open-life61 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1153px;
+  height: 744px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("/playground_assets/openlife615655-ukxj-1200w.png");
+  background-position: center;
+}
+.sign-up-page-openlife3 {
+  top: 0px;
+  left: 353px;
+  width: 448px;
+  height: 483px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  border-color: transparent;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/playground_assets/openlife35656-62gb-500h.png");
+  background-position: center;
+}
+.sign-up-page-name {
+  left: 0px;
+  right: 0px;
+  width: 324px;
+  bottom: 40px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+}
+.sign-up-page-name1 {
+  left: 0px;
+  right: 0px;
+  width: 324px;
+  bottom: -34px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+}
+.sign-up-page-name2 {
+  left: 0px;
+  right: 0px;
+  width: 324px;
+  bottom: -104px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+}
+.sign-up-page-navlink {
+  left: 0px;
+  color: var(--dl-color-gray-white);
+  right: 0px;
+  width: 89px;
+  bottom: 70px;
+  margin: auto;
+  position: absolute;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  margin-left: auto;
+  padding-top: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-halfunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: rgb(57, 24, 129);
+}
+.sign-up-page-navlink1 {
+  top: 606px;
+  left: 0px;
+  color: var(--dl-color-gray-white);
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}

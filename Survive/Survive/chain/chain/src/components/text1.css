@@ -1,0 +1,23 @@
+.text1-container {
+  display: flex;
+  position: relative;
+}
+.text1-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: relative;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text1-root-class-name {
+  top: 133;
+  left: 4;
+  position: absolute;
+}

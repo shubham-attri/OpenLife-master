@@ -1,0 +1,34 @@
+.text8-container {
+  display: flex;
+  position: relative;
+}
+.text8-text {
+  color: rgb(0, 0, 0);
+  width: 1600px;
+  height: auto;
+  position: relative;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text8-text1 {
+  color: #000000;
+}
+.text8-text2 {
+  color: #000000;
+}
+.text8-text3 {
+  color: var(--dl-color-danger-500);
+}
+.text8-text4 {
+  color: var(--dl-color-danger-500);
+}
+.text8-text5 {
+  color: var(--dl-color-danger-500);
+}

@@ -1,0 +1,23 @@
+.text3-container {
+  display: flex;
+  position: relative;
+}
+.text3-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: relative;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text3-root-class-name {
+  top: 89;
+  left: 0;
+  position: absolute;
+}

@@ -1,0 +1,136 @@
+.organ-matching-a2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.organ-matching-a2-matching-i-iai {
+  width: 100%;
+  height: 1786px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.organ-matching-a2-dark-dark5 {
+  top: 93px;
+  left: -6px;
+  width: 1600px;
+  height: 295px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.organ-matching-a2-fluid-shape {
+  top: 0px;
+  left: 0px;
+  width: 1456px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.organ-matching-a2-mask {
+  top: 0px;
+  left: 0px;
+  width: 1456px;
+  height: 212px;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-a2-img {
+  top: -3.6342856884002686px;
+  left: 0px;
+  width: 1600px;
+  height: 295px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-a2-text {
+  top: var(--dl-space-space-fiveunits);
+  left: 0px;
+  color: var(--dl-color-gray-black);
+  right: 0px;
+  width: 927px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 96px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-a2-navlink {
+  display: contents;
+}
+.organ-matching-a2-component {
+  text-decoration: none;
+}
+.organ-matching-a2-navlink1 {
+  display: contents;
+}
+.organ-matching-a2-component1 {
+  text-decoration: none;
+}
+.organ-matching-a2-i-m-a-g-e9lightfacescan {
+  top: 383px;
+  left: 0px;
+  right: 0px;
+  width: 591px;
+  height: 893px;
+  margin: auto;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-a2-navlink2 {
+  display: contents;
+}
+.organ-matching-a2-screenshot202301061958501 {
+  top: 1326px;
+  left: 0px;
+  right: 0px;
+  width: 510px;
+  height: 85px;
+  margin: auto;
+  position: absolute;
+  align-self: flex-end;
+  border-color: transparent;
+  text-decoration: none;
+}
+.organ-matching-a2-text1 {
+  top: 1360px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  right: 0px;
+  width: 343px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

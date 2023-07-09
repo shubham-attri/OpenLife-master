@@ -1,0 +1,82 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  box-shadow: 5px 5px 10px 0px #df0f0f;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f7f7aa;
+}
+.home-open-life11 {
+  width: 1153px;
+  height: 745px;
+  display: flex;
+  position: relative;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("/playground_assets/openlife115556-ye2m-1200w.png");
+  background-position: center;
+}
+.home-container1 {
+  left: 48px;
+  width: 524px;
+  bottom: 278px;
+  display: flex;
+  position: absolute;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-text {
+  font-size: 3rem;
+  max-width: 25rem;
+}
+.home-text1 {
+  font-size: 1.15rem;
+  max-width: 60%;
+  margin-top: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.home-navlink {
+  color: var(--dl-color-gray-white);
+  font-style: normal;
+  text-align: center;
+  transition: 0.3s;
+  font-weight: 400;
+  padding-top: var(--dl-space-space-unit);
+  border-width: 0px;
+  margin-right: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-twounits);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-navlink:hover {
+  transform: scale(1.02);
+}
+@media(max-width: 767px) {
+  .home-text {
+    text-align: center;
+  }
+  .home-text1 {
+    max-width: 100%;
+    text-align: center;
+    padding-left: var(--dl-space-space-threeunits);
+    padding-right: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 479px) {
+  .home-text1 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .home-navlink {
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}

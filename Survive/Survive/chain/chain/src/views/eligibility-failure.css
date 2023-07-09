@@ -1,0 +1,260 @@
+.eligibility-failure-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.eligibility-failure-eligibility {
+  width: 100%;
+  height: 1355px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.eligibility-failure-button {
+  top: 824px;
+  left: 522px;
+  width: 392px;
+  display: flex;
+  padding: 12px 24px;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(80, 38, 172, 1);
+  border-radius: 5px;
+}
+.eligibility-failure-text {
+  color: var(--dl-color-purplepallet-600);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 30px;
+  margin-right: 8px;
+  margin-bottom: 0;
+}
+.eligibility-failure-icons-featherarrowrightcircle {
+  width: 28px;
+  height: 28px;
+  position: relative;
+}
+.eligibility-failure-container1 {
+  top: 400px;
+  left: 134px;
+  width: 1152px;
+  height: 627px;
+  position: absolute;
+  border-color: transparent;
+}
+.eligibility-failure-icons-featherxcircle {
+  top: 561px;
+  left: 912px;
+  width: 251px;
+  height: 251px;
+  position: absolute;
+}
+.eligibility-failure-group17 {
+  top: 834px;
+  left: 177px;
+  width: 519px;
+  height: 88px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(68, 114, 195, 1);
+}
+.eligibility-failure-text02 {
+  top: 29px;
+  left: 158px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.eligibility-failure-group13 {
+  top: 428px;
+  left: 174px;
+  width: 527px;
+  height: 133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.eligibility-failure-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.eligibility-failure-textinput {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.eligibility-failure-group37 {
+  top: 608px;
+  left: 173px;
+  width: 527px;
+  height: 133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.eligibility-failure-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.eligibility-failure-textinput1 {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.eligibility-failure-navlink {
+  display: contents;
+}
+.eligibility-failure-component {
+  text-decoration: none;
+}
+.eligibility-failure-navlink1 {
+  display: contents;
+}
+.eligibility-failure-component1 {
+  text-decoration: none;
+}
+.eligibility-failure-open-life91 {
+  top: 93px;
+  left: 0px;
+  right: 0px;
+  width: 1600px;
+  height: 307px;
+  margin: auto;
+  position: absolute;
+  border-color: transparent;
+}
+.eligibility-failure-text08 {
+  top: 144px;
+  left: 78px;
+  color: rgba(255, 255, 255, 1);
+  width: 820px;
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.eligibility-failure-text10 {
+  top: 474px;
+  left: 827px;
+  color: rgba(0, 0, 0, 1);
+  width: 420px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.eligibility-failure-text12 {
+  top: 831px;
+  left: 854px;
+  color: rgba(0, 0, 0, 1);
+  width: 367px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

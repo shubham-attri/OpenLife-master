@@ -1,0 +1,23 @@
+.screenshot202301061958501-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.screenshot202301061958501-screenshot202301061958501 {
+  top: 1px;
+  left: 0px;
+  right: 0px;
+  width: 510px;
+  height: 85px;
+  margin: auto;
+  position: absolute;
+  border-color: transparent;
+}
+.screenshot202301061958501-root-class-name {
+  top: 1326px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}

@@ -1,0 +1,996 @@
+.recipient-registration-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.recipient-registration-donor-registration {
+  width: 100%;
+  height: 2940px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.recipient-registration-group37 {
+  top: 538px;
+  left: 0px;
+  right: 0px;
+  width: 1264px;
+  height: 1510px;
+  margin: auto;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(246, 246, 246, 1);
+}
+.recipient-registration-form {
+  top: -62px;
+  left: 0px;
+  width: 100%;
+  height: 1510px;
+  display: flex;
+  position: absolute;
+}
+.recipient-registration-group13 {
+  top: 172px;
+  left: 42px;
+  width: 527px;
+  height: 133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textinput {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.recipient-registration-group131 {
+  top: 461px;
+  left: 42px;
+  width: 1117px;
+  height: 133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-container1 {
+  top: 0px;
+  left: 0px;
+  width: 527px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.recipient-registration-text02 {
+  top: 0px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textinput1 {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.recipient-registration-group132 {
+  top: 0px;
+  left: 590px;
+  width: 527px;
+  height: 133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textinput2 {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.recipient-registration-group14 {
+  top: 319px;
+  left: 42px;
+  width: 527px;
+  height: 127px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text06 {
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textinput3 {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.recipient-registration-group41 {
+  top: 319px;
+  left: 632px;
+  width: 527px;
+  height: 127px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 163px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textinput4 {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.recipient-registration-group40 {
+  top: 172px;
+  left: 631px;
+  width: 527px;
+  height: 133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text10 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textinput5 {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.recipient-registration-group47 {
+  top: 949px;
+  left: 42px;
+  width: 1116px;
+  height: 189px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text12 {
+  color: rgba(0, 0, 0, 1);
+  width: 862px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textarea {
+  width: 1141px;
+  height: 148px;
+  align-self: flex-end;
+}
+.recipient-registration-group15 {
+  top: 623px;
+  left: 43px;
+  width: 1116px;
+  height: 133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text14 {
+  color: rgba(0, 0, 0, 1);
+  width: 168px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textinput6 {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.recipient-registration-group44 {
+  top: 1171px;
+  left: 44px;
+  width: 431px;
+  height: 39px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text16 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 265px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-button-primary {
+  top: 0px;
+  left: 270px;
+  width: 161px;
+  height: 39px;
+  display: flex;
+  padding: 7px 20px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 40px;
+  justify-content: center;
+  background-color: var(--dl-color-default-blue);
+}
+.recipient-registration-text18 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.recipient-registration-group45 {
+  top: 1232px;
+  left: 46px;
+  width: 1114px;
+  height: 39px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text20 {
+  top: 1px;
+  color: rgb(0, 0, 0);
+  width: 830px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-button-primary1 {
+  top: 0px;
+  right: 0px;
+  width: 161px;
+  height: 39px;
+  display: flex;
+  padding: 7px 20px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 40px;
+  justify-content: center;
+  background-color: var(--dl-color-default-blue);
+}
+.recipient-registration-text21 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.recipient-registration-group46 {
+  top: 779px;
+  left: 43px;
+  width: 1116px;
+  height: 127px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-text23 {
+  color: rgba(0, 0, 0, 1);
+  width: 520px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-textinput7 {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+  padding-bottom: 0px;
+}
+.recipient-registration-button {
+  left: 0px;
+  color: var(--dl-color-default-white);
+  right: 0px;
+  width: 277px;
+  bottom: var(--dl-space-space-fourunits);
+  height: 97px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  font-size: 40px;
+  text-align: center;
+  flex-direction: row;
+  background-color: var(--dl-color-default-blue1);
+}
+.recipient-registration-text25 {
+  top: var(--dl-space-space-oneandhalfunits);
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+}
+.recipient-registration-group461 {
+  top: 93px;
+  left: -2px;
+  width: 1600px;
+  height: 417px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-index21 {
+  top: 0px;
+  left: -3px;
+  width: 1600px;
+  height: 354px;
+  position: absolute;
+  border-color: transparent;
+}
+.recipient-registration-text28 {
+  top: 102px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 100px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-text30 {
+  top: 222px;
+  left: 0px;
+  color: rgb(255, 255, 255);
+  right: 0px;
+  width: 775px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-navlink {
+  display: contents;
+}
+.recipient-registration-component {
+  text-decoration: none;
+}
+.recipient-registration-navlink1 {
+  display: contents;
+}
+.recipient-registration-component1 {
+  text-decoration: none;
+}
+.recipient-registration-group39 {
+  top: 2073px;
+  left: 150px;
+  width: 1299px;
+  height: 490px;
+  margin: auto;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.recipient-registration-rectangle10 {
+  top: 72px;
+  left: 0px;
+  right: 0px;
+  width: 55px;
+  height: 4px;
+  margin: auto;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5px 5px 0 0;
+}
+.recipient-registration-text31 {
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-group10 {
+  top: 126px;
+  left: 0px;
+  width: 420px;
+  height: 364px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(221, 250, 191, 1);
+}
+.recipient-registration-text33 {
+  top: 202px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  width: 314px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-text35 {
+  top: 167px;
+  left: 74px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-rectangle12 {
+  top: 284px;
+  left: 86px;
+  width: 257px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.recipient-registration-text37 {
+  top: 302px;
+  left: 169px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-icons-phosphor-health-heartbeat {
+  top: 80px;
+  left: 182px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.recipient-registration-group11 {
+  top: 126px;
+  left: 441px;
+  width: 420px;
+  height: 364px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(208, 222, 246, 1);
+}
+.recipient-registration-text39 {
+  top: 202px;
+  left: 60px;
+  color: rgba(0, 0, 0, 1);
+  width: 314px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-text41 {
+  top: 167px;
+  left: 109px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-rectangle15 {
+  top: 284px;
+  left: 84px;
+  width: 257px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.recipient-registration-text43 {
+  top: 302px;
+  left: 167px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-icons-phosphor-health-brain {
+  top: 80px;
+  left: 183px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.recipient-registration-group12 {
+  top: 126px;
+  left: 879px;
+  width: 420px;
+  height: 364px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(251, 222, 178, 1);
+}
+.recipient-registration-text45 {
+  top: 202px;
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  width: 386px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-text47 {
+  top: 167px;
+  left: 118px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-rectangle16 {
+  top: 284px;
+  left: 81px;
+  width: 257px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.recipient-registration-text49 {
+  top: 302px;
+  left: 164px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-icons-phosphor-security-circle-wavy-check {
+  top: 80px;
+  left: 178px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.recipient-registration-text51 {
+  top: 488px;
+  left: 100px;
+  color: rgb(0, 0, 0);
+  width: var(--dl-size-size-maxwidth);
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.recipient-registration-text52 {
+  color: #000000;
+  font-size: 50px;
+  line-height: 1.5;
+}
+.recipient-registration-text53 {
+  color: #000000;
+  font-size: 50px;
+  line-height: 1.5;
+}
+.recipient-registration-text54 {
+  line-height: 1.5;
+}

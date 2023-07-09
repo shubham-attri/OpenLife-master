@@ -1,0 +1,12 @@
+.screenshot2023010619585011-container {
+  display: flex;
+  position: relative;
+}
+.screenshot2023010619585011-screenshot202301061958501 {
+  width: 510px;
+  height: 85px;
+  opacity: 0.80;
+  position: relative;
+  align-self: center;
+  border-color: transparent;
+}

@@ -1,0 +1,1161 @@
+.organ-matching-b8-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.organ-matching-b8-matching-i-ibvii {
+  width: 100%;
+  height: 1786px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.organ-matching-b8-group36 {
+  top: 0px;
+  left: 0px;
+  width: 1456px;
+  height: 93px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.organ-matching-b8-text {
+  top: 32px;
+  left: 769.45556640625px;
+  color: rgba(0, 0, 0, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text002 {
+  top: 32px;
+  left: 931.2333374023438px;
+  color: rgba(0, 0, 0, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text004 {
+  top: 32px;
+  left: 1093.0111083984375px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text006 {
+  top: 32px;
+  left: 1248.72216796875px;
+  color: rgba(0, 0, 0, 1);
+  width: 122px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-openlife2 {
+  top: 7px;
+  left: 18.200000762939453px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-b8-openlife1 {
+  top: 18px;
+  left: 111.22222137451172px;
+  width: 239px;
+  height: 57px;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-b8-group22 {
+  top: 2467px;
+  left: 0px;
+  width: 1456px;
+  height: 338px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(49, 49, 49, 1);
+}
+.organ-matching-b8-group19 {
+  top: 71px;
+  left: 613.7447509765625px;
+  width: 116.27777862548828px;
+  height: 155px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.organ-matching-b8-text008 {
+  top: 45px;
+  left: 4.044444561004639px;
+  color: rgba(255, 255, 255, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text010 {
+  color: rgba(255, 255, 255, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text012 {
+  top: 88px;
+  left: 4.044444561004639px;
+  color: rgba(255, 255, 255, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text014 {
+  top: 133px;
+  left: 4.044444561004639px;
+  color: rgba(255, 255, 255, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-group21 {
+  top: 71px;
+  left: 1063.6888427734375px;
+  width: 289.1777648925781px;
+  height: 257px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.organ-matching-b8-text016 {
+  color: rgba(255, 255, 255, 1);
+  width: 138px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text018 {
+  top: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text020 {
+  top: 118px;
+  color: rgba(255, 255, 255, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text022 {
+  top: 118px;
+  left: 174.92222595214844px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text024 {
+  top: 71px;
+  color: rgba(255, 255, 255, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text029 {
+  top: 144px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text038 {
+  top: 146px;
+  left: 174.92222595214844px;
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-group20 {
+  top: 71px;
+  left: 784.6221923828125px;
+  width: 166.8333282470703px;
+  height: 151px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.organ-matching-b8-text047 {
+  color: rgba(255, 255, 255, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text049 {
+  top: 89px;
+  color: rgba(255, 255, 255, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text051 {
+  top: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text053 {
+  top: 129px;
+  color: rgba(255, 255, 255, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-group18 {
+  top: 19px;
+  left: 59.65583801269531px;
+  width: 431.74444580078125px;
+  height: 265px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.organ-matching-b8-openlife3 {
+  top: 37px;
+  left: 103.13333129882812px;
+  width: 259px;
+  height: 65px;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-b8-text055 {
+  top: 121px;
+  left: 11.122221946716309px;
+  color: rgba(255, 255, 255, 1);
+  width: 421px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-openlife21 {
+  top: 0px;
+  left: 0px;
+  width: 116px;
+  height: 112px;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-b8-container1 {
+  top: 441px;
+  left: 0px;
+  right: 0px;
+  width: 1456px;
+  height: 1348px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.organ-matching-b8-container2 {
+  top: 7px;
+  left: 386px;
+  width: 225px;
+  height: 219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.organ-matching-b8-navlink {
+  display: contents;
+}
+.organ-matching-b8-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 225px;
+  height: 219px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.organ-matching-b8-navlink1 {
+  display: contents;
+}
+.organ-matching-b8-icons-phosphor-commerce-gift {
+  top: 64px;
+  left: 57px;
+  width: 111px;
+  height: 105px;
+  position: absolute;
+  text-decoration: none;
+}
+.organ-matching-b8-container3 {
+  top: 0px;
+  right: 340px;
+  width: 225px;
+  height: 226px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.organ-matching-b8-navlink2 {
+  display: contents;
+}
+.organ-matching-b8-ellipse21 {
+  top: 0px;
+  left: 0px;
+  width: 225px;
+  height: 226px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.organ-matching-b8-navlink3 {
+  display: contents;
+}
+.organ-matching-b8-icons-phosphor-health-heartbeat {
+  top: 52px;
+  left: 45px;
+  width: 136px;
+  height: 124px;
+  position: absolute;
+  text-decoration: none;
+}
+.organ-matching-b8-text057 {
+  top: 248px;
+  left: 323px;
+  color: rgba(16, 84, 31, 1);
+  width: 343px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.organ-matching-b8-text059 {
+  top: 248px;
+  color: rgba(16, 84, 31, 1);
+  right: 274px;
+  width: 343px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.organ-matching-b8-text061 {
+  top: 279px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.organ-matching-b8-text068 {
+  top: 280px;
+  color: rgba(0, 0, 0, 1);
+  right: 305px;
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.organ-matching-b8-group51 {
+  left: 0px;
+  width: 1600px;
+  bottom: 0px;
+  height: 338px;
+  margin: auto;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(49, 49, 49, 1);
+}
+.organ-matching-b8-group191 {
+  top: 71px;
+  left: 613.7447509765625px;
+  width: 116.27777862548828px;
+  height: 155px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.organ-matching-b8-text070 {
+  top: 45px;
+  left: 4.044444561004639px;
+  color: rgba(255, 255, 255, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text072 {
+  color: rgba(255, 255, 255, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text074 {
+  top: 88px;
+  left: 4.044444561004639px;
+  color: rgba(255, 255, 255, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text076 {
+  top: 133px;
+  left: 4.044444561004639px;
+  color: rgba(255, 255, 255, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-group211 {
+  top: 71px;
+  left: 1063.6888427734375px;
+  width: 289.1777648925781px;
+  height: 257px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.organ-matching-b8-text078 {
+  color: rgba(255, 255, 255, 1);
+  width: 138px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text080 {
+  top: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text082 {
+  top: 118px;
+  color: rgba(255, 255, 255, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text084 {
+  top: 118px;
+  left: 174.92222595214844px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text086 {
+  top: 71px;
+  color: rgba(255, 255, 255, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text091 {
+  top: 144px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text100 {
+  top: 146px;
+  left: 174.92222595214844px;
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-group201 {
+  top: 71px;
+  left: 784.6221923828125px;
+  width: 166.8333282470703px;
+  height: 151px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.organ-matching-b8-text109 {
+  color: rgba(255, 255, 255, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text111 {
+  top: 89px;
+  left: 0.3779296875px;
+  color: rgba(255, 255, 255, 1);
+  width: 164px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text113 {
+  top: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-text115 {
+  top: 129px;
+  color: rgba(255, 255, 255, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-group181 {
+  top: 19px;
+  left: 59.65583801269531px;
+  width: 431.74444580078125px;
+  height: 265px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.organ-matching-b8-openlife31 {
+  top: 37px;
+  left: 103.13333129882812px;
+  width: 259px;
+  height: 65px;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-b8-text117 {
+  top: 121px;
+  left: 11.122221946716309px;
+  color: rgba(255, 255, 255, 1);
+  width: 421px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.organ-matching-b8-openlife22 {
+  top: 0px;
+  left: 0px;
+  width: 116px;
+  height: 112px;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-b8-text119 {
+  top: 893px;
+  left: 789px;
+  color: rgba(21, 112, 42, 1);
+  width: 462px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.organ-matching-b8-rectangle3 {
+  top: 968px;
+  left: 998px;
+  width: 43px;
+  height: 9px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5px 5px 0 0;
+}
+.organ-matching-b8-identification-badge {
+  top: 1014px;
+  left: 78px;
+  width: 303px;
+  height: 299px;
+  position: absolute;
+}
+.organ-matching-b8-text121 {
+  top: 1151px;
+  left: 423px;
+  color: rgba(0, 0, 0, 1);
+  width: 808px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.organ-matching-b8-text123 {
+  top: 1206px;
+  left: 381px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.organ-matching-b8-dark-dark9 {
+  top: 93px;
+  left: 0px;
+  width: 1600px;
+  height: 295px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.organ-matching-b8-fluid-shape {
+  top: 0px;
+  left: 0px;
+  width: 1456px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.organ-matching-b8-mask {
+  top: 0px;
+  left: 0px;
+  width: 1456px;
+  height: 212px;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-b8-img {
+  top: -3.6342856884002686px;
+  left: 0px;
+  width: 1600px;
+  height: 295px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: transparent;
+}
+.organ-matching-b8-text125 {
+  top: var(--dl-space-space-fiveunits);
+  left: 0px;
+  color: var(--dl-color-gray-black);
+  right: 0px;
+  width: 927px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 96px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
